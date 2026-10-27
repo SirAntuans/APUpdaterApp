@@ -1,0 +1,1 @@
+APUpdaterApp es una herramienta de APSoft desarrollada en PowerShell para detectar, actualizar y auditar las aplicaciones instaladas en Windows mediante WinGet. Está diseñada con un enfoque seguro y automatizable, incorporando diagnóstico previo, control de ejecución, registro de eventos y validación de resultados.
